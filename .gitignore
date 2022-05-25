@@ -17,6 +17,9 @@ lib/
 .DS_Store
 build/
 
+# local env files
+.env.local
+
 # Logs
 logs
 *.log
